@@ -6,7 +6,7 @@ def setup():
     frameRate(1.2) # Determina taxa de variação dos quadros
 
     global img
-    img = loadImage("example_waldryano-pixabay.png") # Carrega imagem de fundo
+    img = loadImage("spatial-pic.jpg") # Carrega imagem de fundo
 
 def draw():
     background(0)    # Cor de fundo padrão da tela (preto)
